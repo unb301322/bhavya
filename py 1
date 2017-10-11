@@ -1,3 +1,4 @@
 num=float(input('enter a number:'))
 num_sqrt=num**0.5
+
 print('the square root of given number is:",num_sqrt)
